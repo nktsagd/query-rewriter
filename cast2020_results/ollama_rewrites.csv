@@ -1,12 +1,12 @@
 query_id,rewrite,model,method
-81_1,signs of a failing garage door opener,gemma4:31b,rewriter 1
+81_1,signs your garage door opener is failing,gemma4:31b,rewriter 1
 81_2,Why would a garage door opener stop working?,gemma4:31b,rewriter 1
-81_3,How much does it cost to have a broken garage door opener fixed?,gemma4:31b,rewriter 1
+81_3,How much does it cost to have a professional fix a broken garage door opener?,gemma4:31b,rewriter 1
 81_4,How much does it cost to replace a garage door opener?,gemma4:31b,rewriter 1
 81_5,How do I choose a new garage door opener?,gemma4:31b,rewriter 1
 81_6,What are the features of a smart garage door opener?,gemma4:31b,rewriter 1
-81_7,What are the important safety considerations for smart garage door openers?,gemma4:31b,rewriter 1
-81_8,How can smart garage door openers be hacked?,gemma4:31b,rewriter 1
+81_7,What are the important safety features to know when choosing a smart garage door opener?,gemma4:31b,rewriter 1
+81_8,How could smart garage door openers be hacked?,gemma4:31b,rewriter 1
 82_1,GMO food labeling,gemma4:31b,rewriter 1
 82_2,pros and cons of GMO food labeling,gemma4:31b,rewriter 1
 82_3,What are the cons of GMO food labeling?,gemma4:31b,rewriter 1
@@ -37,21 +37,21 @@ query_id,rewrite,model,method
 85_4,What licenses and permits are needed for a pimped-out food truck?,gemma4:31b,rewriter 1
 85_5,What makes a good location for a food truck?,gemma4:31b,rewriter 1
 85_6,What is a typical day like for a food truck owner?,gemma4:31b,rewriter 1
-85_7,How can I run a pimped-out food truck successfully?,gemma4:31b,rewriter 1
+85_7,How can I run a food truck successfully?,gemma4:31b,rewriter 1
 85_8,What are some good examples of successfully run food trucks to learn from?,gemma4:31b,rewriter 1
 85_9,What made the successful food truck examples successful besides inventive flavors?,gemma4:31b,rewriter 1
 86_1,What is the climate like in Utah?,gemma4:31b,rewriter 1
 86_2,How does the climate in Salt Lake City differ from the climate in Utah?,gemma4:31b,rewriter 1
 86_3,What is the main economic activity of Salt Lake City?,gemma4:31b,rewriter 1
-86_4,What was the impact of the 2002 Olympic games on Salt Lake City?,gemma4:31b,rewriter 1
+86_4,What was the impact of the 2002 Olympic games in Salt Lake City?,gemma4:31b,rewriter 1
 86_5,"What were the important ski locations used in the 2002 games in Salt Lake City, Utah?",gemma4:31b,rewriter 1
 86_6,What are the important non-ski events that happen in Salt Lake City?,gemma4:31b,rewriter 1
 86_7,"What are some popular non-winter things to do in Salt Lake City, Utah?",gemma4:31b,rewriter 1
-87_1,different types of orange trees,gemma4:31b,rewriter 1
+87_1,What are the different types of orange trees?,gemma4:31b,rewriter 1
 87_2,How can you tell the different types of orange trees apart?,gemma4:31b,rewriter 1
 87_3,Which type of orange tree has thorns?,gemma4:31b,rewriter 1
 87_4,Where do the different types of orange trees originally come from?,gemma4:31b,rewriter 1
-87_5,Hamlin orange tree variety details,gemma4:31b,rewriter 1
+87_5,Hamlin orange tree variety,gemma4:31b,rewriter 1
 87_7,What are the different types of navel orange trees?,gemma4:31b,rewriter 1
 87_8,Which type of navel orange is the most delicious?,gemma4:31b,rewriter 1
 87_9,How do navel oranges compare with blood oranges?,gemma4:31b,rewriter 1
@@ -59,13 +59,13 @@ query_id,rewrite,model,method
 88_2,What was the role of slavery in the labor systems of the Ottoman Empire?,gemma4:31b,rewriter 1
 88_3,How did the Ottoman Empire govern its labor systems and slavery?,gemma4:31b,rewriter 1
 88_4,Why was slavery important to the labor systems and governance of the Ottoman Empire?,gemma4:31b,rewriter 1
-88_5,What was the culture of the labor systems and slavery in the Ottoman Empire?,gemma4:31b,rewriter 1
+88_5,What was the culture of slavery in the Ottoman Empire's labor systems?,gemma4:31b,rewriter 1
 88_6,What was the role of storytellers in the culture of the Ottoman Empire?,gemma4:31b,rewriter 1
 88_7,What were popular stories told by storytellers in the Ottoman Empire?,gemma4:31b,rewriter 1
 88_8,What was the importance of the millet system in the Ottoman Empire?,gemma4:31b,rewriter 1
-88_9,Why did the British continue the millet system in the Ottoman Empire?,gemma4:31b,rewriter 1
+88_9,Why did the British continue the millet system of the Ottoman Empire?,gemma4:31b,rewriter 1
 88_10,What is the historical importance of the millet system in developing national identities?,gemma4:31b,rewriter 1
-89_1,relationship between predator and prey,gemma4:31b,rewriter 1
+89_1,What is the relationship between predator and prey?,gemma4:31b,rewriter 1
 89_2,What do predator plants eat?,gemma4:31b,rewriter 1
 89_3,What do Venus flytraps eat?,gemma4:31b,rewriter 1
 89_4,Where are Venus flytraps native to?,gemma4:31b,rewriter 1
@@ -79,17 +79,17 @@ query_id,rewrite,model,method
 90_1,Which is the biggest commercial plane?,gemma4:31b,rewriter 1
 90_2,What are the operational costs of the biggest commercial plane?,gemma4:31b,rewriter 1
 90_3,How does the fuel consumption of the biggest commercial plane compare to its competitors?,gemma4:31b,rewriter 1
-90_4,How do the freighter versions of the biggest commercial plane compare to each other?,gemma4:31b,rewriter 1
+90_4,How do the freighter versions of the biggest commercial plane compare to the freighter versions of its competitors in terms of operational costs and fuel consumption?,gemma4:31b,rewriter 1
 90_5,Why did the Airbus A380 stop being produced?,gemma4:31b,rewriter 1
 90_6,What was Boeing's response to compete with the Airbus A380?,gemma4:31b,rewriter 1
 90_7,What is the newest version of the Boeing plane developed to compete with the Airbus A380 and what are its improvements?,gemma4:31b,rewriter 1
-90_8,What are the differences between the variants of the newest Boeing plane designed to compete with the Airbus A380?,gemma4:31b,rewriter 1
+90_8,What are the differences between the variants of the newest Boeing commercial plane designed to compete with the Airbus A380?,gemma4:31b,rewriter 1
 91_1,What is the purpose of GDPR?,gemma4:31b,rewriter 1
 91_2,What is different about GDPR compared to previous legislation?,gemma4:31b,rewriter 1
 91_3,What are the privacy implications of the technologies related to GDPR and previous legislation?,gemma4:31b,rewriter 1
-91_4,What is the full range of personal data and are IP addresses considered PII under GDPR?,gemma4:31b,rewriter 1
+91_4,"What is the full range of personal data under GDPR, and are IP addresses considered PII?",gemma4:31b,rewriter 1
 91_5,How do big companies adapt to GDPR?,gemma4:31b,rewriter 1
-91_6,privacy issues in social networks,gemma4:31b,rewriter 1
+91_6,What are the privacy issues in social networks?,gemma4:31b,rewriter 1
 91_7,What do social network users get in return for their privacy?,gemma4:31b,rewriter 1
 91_8,What are the symptoms of social network addiction?,gemma4:31b,rewriter 1
 92_1,Do shoulder braces help recover from an injury?,gemma4:31b,rewriter 1
@@ -98,11 +98,11 @@ query_id,rewrite,model,method
 92_4,How do I know if a shoulder injury is serious?,gemma4:31b,rewriter 1
 92_5,When should you consider surgery for a shoulder injury?,gemma4:31b,rewriter 1
 92_6,What are other ways to treat shoulder injury pain besides surgery?,gemma4:31b,rewriter 1
-92_7,How to treat shoulder injury pain while working at a desk?,gemma4:31b,rewriter 1
+92_7,How to stop shoulder injury pain while working at a desk?,gemma4:31b,rewriter 1
 93_1,how to purchase a Burger King franchise,gemma4:31b,rewriter 1
 93_2,how to open a Burger King franchise,gemma4:31b,rewriter 1
 93_3,Is there any financial support for the Burger King franchise fee?,gemma4:31b,rewriter 1
-93_4,What is the typical income of a Burger King franchise owner?,gemma4:31b,rewriter 1
+93_4,What is the typical income for a Burger King franchise owner?,gemma4:31b,rewriter 1
 93_5,Is it better to be a Burger King franchise owner or an independent business owner?,gemma4:31b,rewriter 1
 93_6,What support does Burger King provide for opening a franchise?,gemma4:31b,rewriter 1
 94_1,How did snowboarding begin?,gemma4:31b,rewriter 1
@@ -115,7 +115,7 @@ query_id,rewrite,model,method
 94_8,What are other things to do at Bachelor Mountain?,gemma4:31b,rewriter 1
 95_1,How are waste and garbage processed?,gemma4:31b,rewriter 1
 95_2,What is the environmental impact of burning waste and garbage?,gemma4:31b,rewriter 1
-95_3,Why does compacting waste slow down the waste processing?,gemma4:31b,rewriter 1
+95_3,Why does compacting waste slow down waste processing?,gemma4:31b,rewriter 1
 95_4,How is sewage recycled?,gemma4:31b,rewriter 1
 95_5,What are the pros and cons of recycling vs composting?,gemma4:31b,rewriter 1
 95_6,biodegradable plastics,gemma4:31b,rewriter 1
@@ -125,7 +125,7 @@ query_id,rewrite,model,method
 96_3,best Yakiniku restaurants in Tokyo,gemma4:31b,rewriter 1
 96_4,three star Michelin sushi restaurants in Tokyo,gemma4:31b,rewriter 1
 96_5,Do you need an agent to make reservations at three star Michelin sushi restaurants in Tokyo?,gemma4:31b,rewriter 1
-96_6,other fun things to do in Tokyo,gemma4:31b,rewriter 1
+96_6,fun things to do in Tokyo,gemma4:31b,rewriter 1
 96_7,What is the cost of living in Tokyo compared to NYC?,gemma4:31b,rewriter 1
 96_8,What is the salary of foreign law firms in Tokyo?,gemma4:31b,rewriter 1
 97_1,Who are the rivals of the Pittsburgh Steelers?,gemma4:31b,rewriter 1
@@ -150,7 +150,7 @@ query_id,rewrite,model,method
 99_4,What should I eat to improve high cholesterol?,gemma4:31b,rewriter 1
 99_5,What are the differences between the two types of cholesterol?,gemma4:31b,rewriter 1
 99_6,What are the differences between the two types of cholesterol fats and is the other fat good for you?,gemma4:31b,rewriter 1
-99_7,What foods other than fish are good sources of the good type of fat to improve high cholesterol?,gemma4:31b,rewriter 1
+99_7,What foods other than fish are good sources of the good type of fat for improving high cholesterol?,gemma4:31b,rewriter 1
 99_8,What types of fats does olive oil contain?,gemma4:31b,rewriter 1
 100_1,What causes teeth to chip off?,gemma4:31b,rewriter 1
 100_2,What are the treatments to fix chipped teeth?,gemma4:31b,rewriter 1
@@ -163,7 +163,7 @@ query_id,rewrite,model,method
 101_1,What is Melania Trump's religion?,gemma4:31b,rewriter 1
 101_2,What did Melania Trump do before she was married?,gemma4:31b,rewriter 1
 101_3,Does Melania Trump have children?,gemma4:31b,rewriter 1
-101_4,How old is Melania Trump's husband?,gemma4:31b,rewriter 1
+101_4,Who is the father of Melania Trump's children and how old is he?,gemma4:31b,rewriter 1
 101_5,Where is the Kit Kat Club where Donald and Melania Trump met?,gemma4:31b,rewriter 1
 101_6,When did Melania Trump become a model?,gemma4:31b,rewriter 1
 101_7,Does the First Lady of the United States receive a salary?,gemma4:31b,rewriter 1
@@ -171,7 +171,7 @@ query_id,rewrite,model,method
 101_9,Do we pay Jared Kushner?,gemma4:31b,rewriter 1
 101_10,What does Jared Kushner do at the White House?,gemma4:31b,rewriter 1
 102_1,When did social security start in the US?,gemma4:31b,rewriter 1
-102_2,Was Social Security mandatory when it started in the US?,gemma4:31b,rewriter 1
+102_2,Was social security mandatory when it started in the US?,gemma4:31b,rewriter 1
 102_3,Who received the first US Social Security check?,gemma4:31b,rewriter 1
 102_4,When did the US government start borrowing from Social Security?,gemma4:31b,rewriter 1
 102_5,How much does the US government owe to Social Security?,gemma4:31b,rewriter 1
@@ -184,234 +184,234 @@ query_id,rewrite,model,method
 103_3,Did the Grateful Dead have a #1 hit?,gemma4:31b,rewriter 1
 103_4,Who was the leader of the Grateful Dead?,gemma4:31b,rewriter 1
 103_5,How did the leader of the Grateful Dead lose his finger?,gemma4:31b,rewriter 1
-103_6,What was the relationship between the leader of the Grateful Dead and Jefferson Airplane?,gemma4:31b,rewriter 1
+103_6,What was the leader of the Grateful Dead's relationship to Jefferson Airplane?,gemma4:31b,rewriter 1
 103_8,Who wrote the song Cassidy?,gemma4:31b,rewriter 1
-103_9,"What else did the writer of the song ""Cassidy"" write?",gemma4:31b,rewriter 1
+103_9,"What else did the writers of the song ""Cassidy"" write?",gemma4:31b,rewriter 1
 103_10,Why did the Grateful Dead break up?,gemma4:31b,rewriter 1
 104_1,well-known Information Retrieval researchers,gemma4:31b,rewriter 1
 104_3,Who are some well-known British Information Retrieval researchers?,gemma4:31b,rewriter 1
 104_4,What did the well-known British Information Retrieval researcher's studies contribute to evaluation?,gemma4:31b,rewriter 1
-104_6,How did the experiments of important British Information Retrieval researchers influence modern initiatives?,gemma4:31b,rewriter 1
+104_6,How did the experiments of well-known British Information Retrieval researchers influence modern initiatives?,gemma4:31b,rewriter 1
 104_7,What is TREC?,gemma4:31b,rewriter 1
 104_8,What are some recent TREC tasks?,gemma4:31b,rewriter 1
 104_9,What is e-Discovery in the context of TREC tasks?,gemma4:31b,rewriter 1
-104_10,What are the important components of a test collection in Information Retrieval?,gemma4:31b,rewriter 1
+104_10,What are the important components of a TREC test collection?,gemma4:31b,rewriter 1
 104_12,What are important measures for web search engines?,gemma4:31b,rewriter 1
 104_13,What are important measures for online web search engines?,gemma4:31b,rewriter 1
 105_1,When did the Black Lives Matter campaign begin?,gemma4:31b,rewriter 1
 105_2,history of the Black Lives Matter campaign,gemma4:31b,rewriter 1
 105_3,Why was the person acquitted in the events that led to the start of the Black Lives Matter campaign?,gemma4:31b,rewriter 1
-105_4,What happened to Michael Brown in the context of the Black Lives Matter campaign?,gemma4:31b,rewriter 1
+105_4,What happened to Michael Brown?,gemma4:31b,rewriter 1
 105_5,Who named the Black Lives Matter movement?,gemma4:31b,rewriter 1
 105_6,What was the US reaction to the Black Lives Matter movement?,gemma4:31b,rewriter 1
 105_7,What was the movement of the police supporters in reaction to Black Lives Matter?,gemma4:31b,rewriter 1
 105_8,Why were Michael Brown and the individuals associated with the Black Lives Matter campaign's origins killed?,gemma4:31b,rewriter 1
 105_9,What else motivates the Black Lives Matter movement?,gemma4:31b,rewriter 1
-81_1,How do you know when your garage door opener is going bad? signs symptoms failing malfunction,gemma4:31b,rewriter 2
+81_1,How do you know when your garage door opener is going bad? signs symptoms failing malfunctioning,gemma4:31b,rewriter 2
 81_2,Why did the garage door opener stop working? garage door motor failure malfunction,gemma4:31b,rewriter 2
 81_3,How much does it cost for someone to fix a garage door opener? repair price service fee,gemma4:31b,rewriter 2
-81_4,cost to replace garage door opener replacement price,gemma4:31b,rewriter 2
-81_5,How do I choose a new garage door opener? select purchase guide,gemma4:31b,rewriter 2
-81_6,What does a smart garage door opener do? smart garage door opener features functionality,gemma4:31b,rewriter 2
+81_4,cost of replacing a garage door opener replacement price installation cost,gemma4:31b,rewriter 2
+81_5,How do I choose a new garage door opener? garage door motor automatic opener,gemma4:31b,rewriter 2
+81_6,What does a smart garage door opener do? smart opener intelligent garage door system,gemma4:31b,rewriter 2
 81_7,What is important to know about the safety of smart garage door openers smart garage door safety features,gemma4:31b,rewriter 2
-81_8,How could smart garage door openers be hacked? cybersecurity vulnerability security breach,gemma4:31b,rewriter 2
-82_1,GMO food labeling genetically modified organisms bioengineered food,gemma4:31b,rewriter 2
+81_8,How could smart garage door openers be hacked? cybersecurity vulnerability breach,gemma4:31b,rewriter 2
+82_1,GMO food labeling genetically modified organisms bioengineered foods,gemma4:31b,rewriter 2
 82_2,pros and cons of GMO food labeling genetically modified organisms bioengineered foods,gemma4:31b,rewriter 2
 82_3,cons of GMO food labeling disadvantages,gemma4:31b,rewriter 2
 82_4,EU rules for GMO food labeling genetically modified organisms European Union regulations,gemma4:31b,rewriter 2
-82_5,GMO food labeling traceability tools tracking systems monitoring,gemma4:31b,rewriter 2
+82_5,GMO food labeling traceability tools tracking systems,gemma4:31b,rewriter 2
 82_6,What is the role of Co-Extra in GMO food traceability tools? Co-Extra traceability system,gemma4:31b,rewriter 2
 82_7,How is testing done for GMO food contamination? genetically modified organisms adulteration,gemma4:31b,rewriter 2
 82_8,difference between European and US approaches to GMO food labeling EU USA,gemma4:31b,rewriter 2
-82_9,How does the DNA-based method work for GMO contamination testing? PCR genomic analysis,gemma4:31b,rewriter 2
-82_10,How could Co-Extra improve DNA-based testing for GMO contamination? Co-Extra DNA analysis detection,gemma4:31b,rewriter 2
-83_1,What are some interesting facts about bees? honeybees pollinators,gemma4:31b,rewriter 2
+82_9,How does the DNA-based method work for testing GMO food contamination? PCR genetic analysis,gemma4:31b,rewriter 2
+82_10,How could Co-Extra improve DNA-based testing for GMO contamination? Co-Extra DNA-based method GMO detection,gemma4:31b,rewriter 2
+83_1,What are some interesting facts about bees? apis honeybees pollinators,gemma4:31b,rewriter 2
 83_2,Why doesn't honey spoil? honey preservation shelf life,gemma4:31b,rewriter 2
-83_3,Why are so many bees dying? bee colony collapse disorder population decline,gemma4:31b,rewriter 2
+83_3,Why are so many bees dying? bee colony collapse disorder,gemma4:31b,rewriter 2
 83_4,What can be done to stop bee population decline? honeybee extinction colony collapse disorder,gemma4:31b,rewriter 2
 83_5,What has happened to bee habitats? pollinators environment,gemma4:31b,rewriter 2
-83_6,What can I do to help with the problem of bees dying? bee conservation save the bees,gemma4:31b,rewriter 2
-83_7,What is the cause of CCD in bees? Colony Collapse Disorder,gemma4:31b,rewriter 2
+83_6,What can I do to help with bee population decline? save bees protect pollinators,gemma4:31b,rewriter 2
+83_7,What is the cause of CCD? Colony Collapse Disorder,gemma4:31b,rewriter 2
 83_8,What would happen if bees died out? pollinators honeybees,gemma4:31b,rewriter 2
 84_1,How does seed investment work for startups? seed funding venture capital early-stage financing,gemma4:31b,rewriter 2
 84_2,How do angel rounds work for startups? angel investment seed funding,gemma4:31b,rewriter 2
-84_3,How do angel rounds compare with crowdfunding? angel investment equity crowdfunding,gemma4:31b,rewriter 2
+84_3,How does angel investment compare with crowdfunding? angel rounds equity crowdfunding,gemma4:31b,rewriter 2
 84_4,How much is a typical Series A round? Series A funding investment amount,gemma4:31b,rewriter 2
-84_5,What are the risks of investing in startup seed and Series A rounds? venture capital early-stage investment,gemma4:31b,rewriter 2
+84_5,What are the risks of investing in Series A rounds? venture capital equity financing,gemma4:31b,rewriter 2
 84_6,What are the different types of instruments used by VCs? venture capital investment vehicles financial instruments,gemma4:31b,rewriter 2
-85_1,How much does a used Lamborghini cost? pre-owned price valuation,gemma4:31b,rewriter 2
-85_2,used Lamborghini cost compared to Ferrari price value,gemma4:31b,rewriter 2
-85_3,How much does a pimped-out food truck cost? customized modified luxury,gemma4:31b,rewriter 2
-85_4,What licenses and permits are needed for a pimped-out food truck? certifications regulations,gemma4:31b,rewriter 2
+85_1,How much does a used Lamborghini cost? pre-owned Lamborghini price,gemma4:31b,rewriter 2
+85_2,How does the cost of a used Lamborghini compare to a used Ferrari? price valuation,gemma4:31b,rewriter 2
+85_3,How much does a pimped-out food truck cost? customized modified,gemma4:31b,rewriter 2
+85_4,What licenses and permits are needed for a pimped-out food truck? regulations certifications,gemma4:31b,rewriter 2
 85_5,What makes a good location for a food truck? site placement venue,gemma4:31b,rewriter 2
-85_6,typical day food truck owner operator business daily routine,gemma4:31b,rewriter 2
+85_6,What is a typical day like for a food truck owner? food truck operator daily routine,gemma4:31b,rewriter 2
 85_7,How can I run a food truck successfully? business management operations,gemma4:31b,rewriter 2
-85_8,good examples of successful food trucks successful food truck case studies examples,gemma4:31b,rewriter 2
-85_9,What made successful food truck examples successful besides inventive flavors? food trucks successful business models,gemma4:31b,rewriter 2
+85_8,successful food truck examples case studies,gemma4:31b,rewriter 2
+85_9,What made successful food truck examples successful besides inventive flavors? successful food trucks business models,gemma4:31b,rewriter 2
 86_1,What is the climate like in Utah? weather environment,gemma4:31b,rewriter 2
-86_2,How does the climate in Salt Lake City differ from Utah? weather SLC,gemma4:31b,rewriter 2
-86_3,What is the main economic activity of Salt Lake City? economy industry,gemma4:31b,rewriter 2
-86_4,What was the impact of the 2002 Olympic games in Salt Lake City? 2002 Winter Olympics,gemma4:31b,rewriter 2
-86_5,important ski locations used 2002 Winter Olympics Salt Lake City venues resorts,gemma4:31b,rewriter 2
-86_6,What are the important non-ski events that happen in Salt Lake City? festivals competitions tournaments,gemma4:31b,rewriter 2
-86_7,popular non-winter activities Salt Lake City Utah attractions summer autumn spring,gemma4:31b,rewriter 2
-87_1,What are the different types of orange trees? citrus varieties cultivars,gemma4:31b,rewriter 2
+86_2,How does the climate in Salt Lake City differ from the climate in Utah? weather comparison,gemma4:31b,rewriter 2
+86_3,What is the main economic activity of Salt Lake City? industry commerce,gemma4:31b,rewriter 2
+86_4,What was the impact of the 2002 Olympic Games in Salt Lake City? Olympics Winter Games,gemma4:31b,rewriter 2
+86_5,What were important ski locations used in the 2002 games in Salt Lake City? resorts venues,gemma4:31b,rewriter 2
+86_6,What are the important non-ski events that happen in Salt Lake City? festivals gatherings,gemma4:31b,rewriter 2
+86_7,popular non-winter activities Salt Lake City Utah summer attractions,gemma4:31b,rewriter 2
+87_1,What are the different types of orange trees? citrus varieties,gemma4:31b,rewriter 2
 87_2,How to tell different types of orange trees apart distinguish identify characteristics,gemma4:31b,rewriter 2
 87_3,What type of orange tree has thorns? citrus thorns spines,gemma4:31b,rewriter 2
-87_4,Where do orange trees originally come from? citrus origin provenance,gemma4:31b,rewriter 2
-87_5,Hamlin orange tree variety Hamlin orange citrus sinensis,gemma4:31b,rewriter 2
-87_7,What are the different types of navel orange trees? navel oranges navel variety,gemma4:31b,rewriter 2
+87_4,Where do orange trees originally come from? origin native homeland,gemma4:31b,rewriter 2
+87_5,Hamlin orange tree variety Hamlin orange synonyms,gemma4:31b,rewriter 2
+87_7,What are the different types of navel orange trees? navel oranges navels,gemma4:31b,rewriter 2
 87_8,Which type of navel orange is the most delicious? navel orange varieties taste flavor,gemma4:31b,rewriter 2
 87_9,How do navel oranges compare with blood oranges? navels blood-orange,gemma4:31b,rewriter 2
 88_1,labor systems of the Ottoman Empire workforce employment,gemma4:31b,rewriter 2
 88_2,What was the role of slavery in the labor systems of the Ottoman Empire? servitude bondage,gemma4:31b,rewriter 2
 88_3,How did the Ottoman Empire govern slavery? administration regulation,gemma4:31b,rewriter 2
 88_4,Why was slavery important in the Ottoman Empire labor systems? servitude bondage,gemma4:31b,rewriter 2
-88_5,culture of the Ottoman Empire Ottoman society,gemma4:31b,rewriter 2
-88_6,What was the role of storytellers in the Ottoman Empire? meddah oral tradition,gemma4:31b,rewriter 2
+88_5,What was the culture of the Ottoman Empire like? Ottoman state society,gemma4:31b,rewriter 2
+88_6,What was the role of storytellers in the Ottoman Empire? storytelling meddah,gemma4:31b,rewriter 2
 88_7,What were popular stories told by storytellers in the Ottoman Empire? folklore tales narratives,gemma4:31b,rewriter 2
-88_8,What was the importance of the millet system in the Ottoman Empire? millet system administrative autonomy,gemma4:31b,rewriter 2
-88_9,Why did the British continue the millet system? millet system Ottoman administrative division,gemma4:31b,rewriter 2
-88_10,historical importance of the millet system in developing national identities millet system millets,gemma4:31b,rewriter 2
+88_8,What was the importance of the millet system in the Ottoman Empire? millet system administrative division,gemma4:31b,rewriter 2
+88_9,Why did the British continue the millet system? millet system communal autonomy,gemma4:31b,rewriter 2
+88_10,What is the historical importance of the millet system in developing national identities? millet system millets,gemma4:31b,rewriter 2
 89_1,What is the relationship between predator and prey? predation trophic interaction,gemma4:31b,rewriter 2
 89_2,What do predator plants eat? carnivorous plants insectivorous,gemma4:31b,rewriter 2
 89_3,What do Venus flytraps eat? Dionaea muscipula carnivorous plants,gemma4:31b,rewriter 2
 89_4,Where is the Venus flytrap native to? Dionaea muscipula origin habitat,gemma4:31b,rewriter 2
 89_5,How do Venus flytraps attract and catch their prey? Dionaea muscipula snap trap,gemma4:31b,rewriter 2
 89_6,What are other similar carnivorous plants from the native area of Venus flytraps? Dionaea muscipula carnivorous plants,gemma4:31b,rewriter 2
-89_7,How do populations of predators and prey relate? predator prey population dynamics,gemma4:31b,rewriter 2
+89_7,How do populations of predators and prey relate? predator-prey dynamics population cycles,gemma4:31b,rewriter 2
 89_8,Why would the roles of predator and prey reverse? predator-prey dynamics inversion,gemma4:31b,rewriter 2
-89_9,How does the relationship between predators and prey influence biodiversity? predator-prey dynamics ecological balance,gemma4:31b,rewriter 2
+89_9,How does the relationship between predator and prey influence biodiversity? predation trophic levels,gemma4:31b,rewriter 2
 89_10,examples of predators and prey biodiversity relationship predator-prey dynamics,gemma4:31b,rewriter 2
-89_11,Why would humans be considered predators? human apex predator,gemma4:31b,rewriter 2
-90_1,Which is the biggest commercial plane? largest aircraft airliner,gemma4:31b,rewriter 2
+89_11,Why would humans be considered predators? apex predator hunter,gemma4:31b,rewriter 2
+90_1,Which is the biggest commercial plane? largest passenger aircraft airliner,gemma4:31b,rewriter 2
 90_2,operational costs of the biggest commercial plane operating expenses,gemma4:31b,rewriter 2
 90_3,How does the biggest commercial plane's fuel consumption compare to its competitors? fuel efficiency gas mileage,gemma4:31b,rewriter 2
 90_4,How do the freighter versions of the biggest commercial planes compare to each other? cargo aircraft transport planes,gemma4:31b,rewriter 2
-90_5,Why did the Airbus A380 stop being produced? production end termination,gemma4:31b,rewriter 2
+90_5,Why did the Airbus A380 stop being produced? production cessation termination,gemma4:31b,rewriter 2
 90_6,What was Boeing's response to compete with the Airbus A380? Boeing 747-8,gemma4:31b,rewriter 2
-90_7,What is the newest version of the Boeing response to the A380 and what is better about it? Boeing 777X 777-9,gemma4:31b,rewriter 2
-90_8,What are the differences between the variants of the newest Boeing plane? 777X 777-8 777-9,gemma4:31b,rewriter 2
+90_7,What is the newest version of the Boeing plane designed to compete with the A380 and what is better about it? Boeing 747-8 747-8i,gemma4:31b,rewriter 2
+90_8,What are the differences between the variants of the newest Boeing plane? Boeing 777X 777-9 777-8,gemma4:31b,rewriter 2
 91_1,What is the purpose of GDPR? General Data Protection Regulation,gemma4:31b,rewriter 2
 91_2,What is different about GDPR compared to previous legislation? General Data Protection Regulation data privacy laws,gemma4:31b,rewriter 2
-91_3,What are the privacy implications of GDPR technologies? General Data Protection Regulation,gemma4:31b,rewriter 2
+91_3,What are the privacy implications of GDPR and previous legislation? data protection laws,gemma4:31b,rewriter 2
 91_4,What is the full range of personal data under GDPR? PII personally identifiable information,gemma4:31b,rewriter 2
-91_5,How do big companies adapt to GDPR? General Data Protection Regulation compliance corporate adaptation,gemma4:31b,rewriter 2
+91_5,How do big companies adapt to GDPR? corporate compliance organizational adjustment,gemma4:31b,rewriter 2
 91_6,privacy issues in social networks social media privacy concerns,gemma4:31b,rewriter 2
-91_7,What do social networks get in return for user privacy? social media platforms data monetization,gemma4:31b,rewriter 2
+91_7,What do social network users get in return for their privacy? social media platforms users,gemma4:31b,rewriter 2
 91_8,What are the symptoms of social network addiction? social media addiction,gemma4:31b,rewriter 2
-92_1,Do shoulder braces help recover from an injury? shoulder supports orthosis rehabilitation,gemma4:31b,rewriter 2
-92_2,exercises for shoulder injury recovery shoulder rehabilitation physical therapy,gemma4:31b,rewriter 2
-92_3,exercises for shoulder injury recovery rehabilitation physical therapy,gemma4:31b,rewriter 2
+92_1,Do shoulder braces help recover from an injury? shoulder supports orthosis,gemma4:31b,rewriter 2
+92_2,exercises for shoulder injury recovery physical therapy rehabilitation,gemma4:31b,rewriter 2
+92_3,exercises for shoulder injury recovery physical therapy rehabilitation,gemma4:31b,rewriter 2
 92_4,How do I know if a shoulder injury is serious? shoulder damage severe symptoms,gemma4:31b,rewriter 2
 92_5,When should you consider surgery for a shoulder injury? shoulder operation surgical intervention,gemma4:31b,rewriter 2
-92_6,other ways to treat shoulder injury pain pain management analgesics therapy,gemma4:31b,rewriter 2
+92_6,other ways to treat shoulder injury pain pain management alternatives,gemma4:31b,rewriter 2
 92_7,How to stop shoulder injury pain while working at a desk shoulder pain ergonomics,gemma4:31b,rewriter 2
-93_1,purchasing a Burger King franchise buy open BK ownership,gemma4:31b,rewriter 2
+93_1,purchasing a Burger King franchise buy Burger King franchise ownership costs,gemma4:31b,rewriter 2
 93_2,how to open a Burger King franchise requirements process,gemma4:31b,rewriter 2
 93_3,Is there any financial support for the Burger King franchise fee? funding assistance loans,gemma4:31b,rewriter 2
-93_4,How much does a Burger King franchise owner typically make? earnings profit income,gemma4:31b,rewriter 2
-93_5,Is it better to be a Burger King franchise owner or an independent restaurant owner? fast food business ownership solo venture,gemma4:31b,rewriter 2
+93_4,How much does a Burger King franchise owner typically make? earnings profit revenue,gemma4:31b,rewriter 2
+93_5,Is it better to be a Burger King franchise owner or an independent restaurant owner? franchising independent business,gemma4:31b,rewriter 2
 93_6,What support does Burger King provide to franchisees? franchise assistance training,gemma4:31b,rewriter 2
 94_1,How did snowboarding begin? origins history,gemma4:31b,rewriter 2
 94_2,Who were the winners of the first snowboarding competitions? snowboarding contests,gemma4:31b,rewriter 2
-94_3,What are strap-in bindings? snowboard bindings straps,gemma4:31b,rewriter 2
+94_3,What are strap-in bindings? snowboard bindings,gemma4:31b,rewriter 2
 94_4,What is an alternative to strap-in bindings? strap-in binding alternatives snowboarding bindings,gemma4:31b,rewriter 2
 94_5,What else do I need for my first time snowboarding? snowboarding gear equipment,gemma4:31b,rewriter 2
 94_6,How can I teach myself to get started with snowboarding? learn snowboarding beginner guide,gemma4:31b,rewriter 2
 94_7,best slopes in Seattle skiing snowboarding mountains,gemma4:31b,rewriter 2
 94_8,What are other things to do at Bachelor Mountain? Bachelor resort activities,gemma4:31b,rewriter 2
 95_1,How are waste and garbage processed? waste management refuse disposal,gemma4:31b,rewriter 2
-95_2,impact of burning waste and garbage on the environment incineration emissions pollution,gemma4:31b,rewriter 2
-95_3,why does compacting waste slow the waste processing garbage compaction,gemma4:31b,rewriter 2
-95_4,How is sewage recycled? wastewater treatment reclamation,gemma4:31b,rewriter 2
+95_2,impact of burning waste and garbage on the environment incineration pollution,gemma4:31b,rewriter 2
+95_3,Why does compacting waste slow down waste processing? compaction compression,gemma4:31b,rewriter 2
+95_4,How is sewage recycled? wastewater reclamation treatment,gemma4:31b,rewriter 2
 95_5,What are the pros and cons of recycling vs composting? advantages disadvantages,gemma4:31b,rewriter 2
 95_6,Tell me more about biodegradable plastics. compostable bioplastics,gemma4:31b,rewriter 2
 95_7,How are biodegradable plastics made? bioplastics synthesis production,gemma4:31b,rewriter 2
 95_8,How is corn oil used in biodegradable plastics? maize oil,gemma4:31b,rewriter 2
 96_1,How do you make Japanese Yakiniku? grilled meat BBQ,gemma4:31b,rewriter 2
-96_3,best Yakiniku restaurants in Tokyo BBQ yakiniku-ya,gemma4:31b,rewriter 2
+96_3,What are the best Yakiniku restaurants in Tokyo? BBQ yakiniku-ya,gemma4:31b,rewriter 2
 96_4,three star Michelin sushi restaurants in Tokyo Michelin-starred sushi Tokyo,gemma4:31b,rewriter 2
-96_5,Do you need an agent to make reservations for three star Michelin sushi restaurants in Tokyo? booking concierge,gemma4:31b,rewriter 2
+96_5,Do you need an agent to make reservations at three star Michelin sushi restaurants in Tokyo? booking concierge,gemma4:31b,rewriter 2
 96_6,fun things to do in Tokyo activities attractions,gemma4:31b,rewriter 2
-96_7,cost of living in Tokyo compared to NYC Tokyo Kyoto New York City,gemma4:31b,rewriter 2
+96_7,What is the cost of living in Tokyo compared to NYC? Tokyo New York City,gemma4:31b,rewriter 2
 96_8,What is the salary of foreign law firms in Tokyo? Tokyo Japan,gemma4:31b,rewriter 2
-97_1,Who are the rivals of the Steelers? Pittsburgh Steelers opponents enemies,gemma4:31b,rewriter 2
-97_2,notable games between Baltimore Ravens versus Pittsburgh Steelers Ravens Steelers matchups,gemma4:31b,rewriter 2
+97_1,Who are the rivals of the Pittsburgh Steelers? opponents enemies,gemma4:31b,rewriter 2
+97_2,What are notable games between Ravens versus Steelers? Baltimore Ravens NFL,gemma4:31b,rewriter 2
 97_3,notable moments in the Ravens versus Steelers rivalry Baltimore Ravens Pittsburgh Steelers,gemma4:31b,rewriter 2
-97_4,Troy Polamalu interception Ravens Steelers rivalry interception pick-six,gemma4:31b,rewriter 2
+97_4,Troy Polamalu interception Ravens Steelers rivalry Troy Polamalu pick-six,gemma4:31b,rewriter 2
 97_5,Troy Polamalu pick-6 interception Ravens Steelers touchdown,gemma4:31b,rewriter 2
-97_6,Tell me more about the immaculate reception. Franco Harris Steelers Raiders,gemma4:31b,rewriter 2
-97_7,What happened to the stadium of the Immaculate Reception Steelers Three Rivers Stadium,gemma4:31b,rewriter 2
+97_6,the immaculate reception Steelers Ravens rivalry,gemma4:31b,rewriter 2
+97_7,What happened to the stadium of the Immaculate Reception? Three Rivers Stadium,gemma4:31b,rewriter 2
 97_8,Steelers defense defensive unit,gemma4:31b,rewriter 2
 98_1,What is the environmental cost of food production? ecological impact agriculture sustainability,gemma4:31b,rewriter 2
 98_2,environmental cost of water use for meat production water footprint livestock,gemma4:31b,rewriter 2
-98_3,How much less water is used for vegetable production than for meat production? vegetables produce crops,gemma4:31b,rewriter 2
+98_3,How much less water is used for vegetable production? irrigation aqua,gemma4:31b,rewriter 2
 98_4,What are the benefits of being vegetarian? plant-based diet meat-free,gemma4:31b,rewriter 2
-98_5,Are there any health concerns with being vegetarian? vegetarianism plant-based diet,gemma4:31b,rewriter 2
-98_6,What are the protein sources for vegetarians? plant-based proteins legumes pulses,gemma4:31b,rewriter 2
+98_5,Are there any health concerns with being vegetarian? plant-based diet vegans,gemma4:31b,rewriter 2
+98_6,What are the protein sources for vegetarians? plant-based proteins legumes,gemma4:31b,rewriter 2
 98_7,almond recipes almonds,gemma4:31b,rewriter 2
 98_8,How do you make almond flour? ground almonds meal,gemma4:31b,rewriter 2
 99_1,What is high blood carbon dioxide? hypercapnia hypercarbia,gemma4:31b,rewriter 2
 99_2,treatment for high blood carbon dioxide hypercapnia,gemma4:31b,rewriter 2
-99_3,How to treat high cholesterol? hyperlipidemia hypercholesterolemia,gemma4:31b,rewriter 2
-99_4,What should I eat to improve high cholesterol? diet nutrition foods,gemma4:31b,rewriter 2
-99_5,differences between the two types of cholesterol fats LDL HDL,gemma4:31b,rewriter 2
-99_6,Is the other type of cholesterol good for you? HDL good cholesterol,gemma4:31b,rewriter 2
+99_3,How to treat high cholesterol? hypercholesterolemia hyperlipidemia,gemma4:31b,rewriter 2
+99_4,What should I eat to improve high cholesterol? diet nutrition,gemma4:31b,rewriter 2
+99_5,What are the differences between the two types of cholesterol? LDL HDL,gemma4:31b,rewriter 2
+99_6,Is the other type of cholesterol fat good for you? HDL healthy fats,gemma4:31b,rewriter 2
 99_7,What other foods are good sources of HDL cholesterol? healthy fats good cholesterol,gemma4:31b,rewriter 2
-99_8,What types of fats does olive oil contain? unsaturated fats lipids,gemma4:31b,rewriter 2
+99_8,What types of fats does olive oil contain? unsaturated fats monounsaturated polyunsaturated,gemma4:31b,rewriter 2
 100_1,What causes my teeth to chip off? dental fractures chipped teeth,gemma4:31b,rewriter 2
-100_2,how to fix chipped teeth dental treatments repair,gemma4:31b,rewriter 2
-100_3,how do the options for fixing a larger chipped tooth differ dental bonding veneers crowns filling,gemma4:31b,rewriter 2
-100_4,dental crown vs dental implant for chipped teeth implant tooth replacement,gemma4:31b,rewriter 2
+100_2,treatments for chipped teeth dental repair options,gemma4:31b,rewriter 2
+100_3,how do the options for fixing a larger chipped tooth differ dental bonding veneers crowns crowns filling,gemma4:31b,rewriter 2
+100_4,What are the differences between using a crown and a dental implant to fix a chipped tooth? dental implant tooth replacement,gemma4:31b,rewriter 2
 100_5,dental crown vs dental implant cost price expense,gemma4:31b,rewriter 2
-100_6,What is the insurance coverage for a dental crown? dental insurance reimbursement policy,gemma4:31b,rewriter 2
+100_6,What is the insurance coverage for a dental crown? dental insurance reimbursement reimbursement rate,gemma4:31b,rewriter 2
 100_7,What is the coverage of the crown in Medicare? medicare insurance,gemma4:31b,rewriter 2
-100_8,covered dentists in Seattle Medicare providers network,gemma4:31b,rewriter 2
+100_8,covered dentists in Seattle Medicare providers,gemma4:31b,rewriter 2
 101_1,What is Melania Trump's religion? faith belief,gemma4:31b,rewriter 2
-101_2,What did Melania Trump do before she was married? career profession occupation,gemma4:31b,rewriter 2
+101_2,What did Melania Trump do before she was married? career profession,gemma4:31b,rewriter 2
 101_3,Does Melania Trump have children? kids offspring,gemma4:31b,rewriter 2
-101_4,How old is Donald Trump? Donald Trump,gemma4:31b,rewriter 2
-101_5,Where is the Kit Kat Club where Donald and Melania Trump met? Kit Kat Club location,gemma4:31b,rewriter 2
-101_6,When did Melania Trump become a model? fashion career,gemma4:31b,rewriter 2
+101_4,How old is Donald Trump? Donald Trump age,gemma4:31b,rewriter 2
+101_5,Where is the Kit Kat Club where Donald and Melania Trump met? cabaret nightclub,gemma4:31b,rewriter 2
+101_6,When did Melania Trump become a model? modeling career,gemma4:31b,rewriter 2
 101_7,Do we pay the First Lady? salary compensation remuneration,gemma4:31b,rewriter 2
 101_8,What about Ivanka Trump? Ivanka,gemma4:31b,rewriter 2
-101_9,Does Jared Kushner get paid as the First Lady's husband? Jared Kushner salary payment,gemma4:31b,rewriter 2
-101_10,What does Jared Kushner do at the White House? Jared Kushner,gemma4:31b,rewriter 2
+101_9,Does Jared Kushner get paid? salary compensation,gemma4:31b,rewriter 2
+101_10,What does Jared Kushner do at the White House? Jared Kushner role position,gemma4:31b,rewriter 2
 102_1,When did social security start in the US? Social Security Act,gemma4:31b,rewriter 2
 102_2,Was US social security mandatory? compulsory required,gemma4:31b,rewriter 2
 102_3,Who received the first US social security check? social security benefits payment,gemma4:31b,rewriter 2
-102_4,When did the US government start borrowing from social security? Social Security Trust Fund OASDI,gemma4:31b,rewriter 2
-102_5,How much is owed to social security US government borrowing Social Security Trust Fund debt,gemma4:31b,rewriter 2
+102_4,When did the US government start borrowing from social security? Social Security Trust Fund,gemma4:31b,rewriter 2
+102_5,How much does the US government owe to social security? Social Security Trust Fund debt deficit,gemma4:31b,rewriter 2
 102_6,When will US social security run out of money? Social Security Trust Fund insolvency depletion,gemma4:31b,rewriter 2
-102_7,What will happen when Social Security runs out of money? Social Security insolvency depletion,gemma4:31b,rewriter 2
+102_7,What will happen when Social Security runs out of money? insolvency depletion,gemma4:31b,rewriter 2
 102_8,Can US social security be fixed? social security solvency solutions reform,gemma4:31b,rewriter 2
 102_9,How much of an increase to fix social security? increase raise hike,gemma4:31b,rewriter 2
-103_1,"Why were the Grateful Dead such an influential live band? Grateful Dead ""The Dead""",gemma4:31b,rewriter 2
+103_1,"Why were the Grateful Dead such an influential live band? ""The Dead""",gemma4:31b,rewriter 2
 103_2,Why did the Grateful Dead allow live recordings? taping bootlegs,gemma4:31b,rewriter 2
 103_3,Did the Grateful Dead have a #1 hit? Grateful Dead,gemma4:31b,rewriter 2
-103_4,Who was the leader of the Grateful Dead? lead guitarist frontman,gemma4:31b,rewriter 2
-103_5,How did the leader of the Grateful Dead lose his finger? Jerry Garcia,gemma4:31b,rewriter 2
+103_4,"Who was the leader of the Grateful Dead? ""Grateful Dead""",gemma4:31b,rewriter 2
+103_5,How did Jerry Garcia lose his finger? Grateful Dead,gemma4:31b,rewriter 2
 103_6,What was Jerry Garcia's relationship to Jefferson Airplane? Jeffrey Airplane,gemma4:31b,rewriter 2
-103_8,Who wrote the song Cassidy? lyrics songwriter,gemma4:31b,rewriter 2
-103_9,What else did the authors of the song Cassidy write? songwriters compositions,gemma4:31b,rewriter 2
-103_10,Why did the Grateful Dead break up? breakup dissolve split,gemma4:31b,rewriter 2
+103_8,Who wrote the song Cassidy? lyrics composer,gemma4:31b,rewriter 2
+103_9,What else did the authors of the song Cassidy write? songwriters composers,gemma4:31b,rewriter 2
+103_10,Why did the Grateful Dead break up? Grateful Dead dissolution split,gemma4:31b,rewriter 2
 104_1,well-known Information Retrieval researchers IR scholars,gemma4:31b,rewriter 2
 104_3,Who are some important British Information Retrieval researchers? IR UK,gemma4:31b,rewriter 2
-104_4,What did the British Information Retrieval researcher's studies contribute to evaluation? assessment metrics benchmarking,gemma4:31b,rewriter 2
-104_6,How did the experiments of British Information Retrieval researchers influence modern initiatives? IR evaluation benchmarks,gemma4:31b,rewriter 2
+104_4,What did the British Information Retrieval researcher's studies contribute to evaluation? assessment metrics measurement,gemma4:31b,rewriter 2
+104_6,How did the experiments of British Information Retrieval researchers influence modern initiatives? evaluation benchmarks metrics,gemma4:31b,rewriter 2
 104_7,What is TREC? Text REtrieval Conference,gemma4:31b,rewriter 2
 104_8,What are some recent TREC tasks? Text REtrieval Conference,gemma4:31b,rewriter 2
-104_9,What is e-Discovery in the context of TREC tasks? electronic discovery,gemma4:31b,rewriter 2
+104_9,What is e-Discovery in the context of TREC tasks? electronic discovery electronic discovery process,gemma4:31b,rewriter 2
 104_10,What are the important components of a test collection? benchmark dataset evaluation corpus,gemma4:31b,rewriter 2
 104_12,What are important measures for web search engines? metrics evaluation benchmarks,gemma4:31b,rewriter 2
 104_13,What are important measures for online web search engines? online metrics performance indicators,gemma4:31b,rewriter 2
 105_1,When did the Black Lives Matter campaign begin? BLM movement start date,gemma4:31b,rewriter 2
-105_2,Black Lives Matter campaign origins and early events BLM movement start,gemma4:31b,rewriter 2
+105_2,What happened during the beginning of the Black Lives Matter campaign? BLM movement origins,gemma4:31b,rewriter 2
 105_3,Why was he acquitted?,gemma4:31b,rewriter 2
 105_4,what happened to Michael Brown Black Lives Matter Michael Brown shooting,gemma4:31b,rewriter 2
-105_5,Who named the Black Lives Matter movement? BLM,gemma4:31b,rewriter 2
-105_6,What was the US reaction to the Black Lives Matter movement? USA response,gemma4:31b,rewriter 2
-105_7,movement of the police supporters Blue Lives Matter,gemma4:31b,rewriter 2
+105_5,Who named the Black Lives Matter movement? BLM organization,gemma4:31b,rewriter 2
+105_6,"What was the US reaction to the Black Lives Matter movement? BLM ""United States""",gemma4:31b,rewriter 2
+105_7,Tell me more about the movement of the police supporters. Blue Lives Matter,gemma4:31b,rewriter 2
 105_8,Why were Michael Brown and the victims of the Black Lives Matter movement killed? deaths fatalities,gemma4:31b,rewriter 2
 105_9,What else motivates the Black Lives Matter movement? goals objectives drivers,gemma4:31b,rewriter 2
