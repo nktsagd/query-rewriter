@@ -1,0 +1,209 @@
+query_id,rewrite,model
+81_1,signs your garage door opener is failing,qwen3.5:9b
+81_2,Why would a garage door opener stop working?,qwen3.5:9b
+81_3,How much does it cost to have a broken garage door opener fixed?,qwen3.5:9b
+81_4,How much does it cost to replace a garage door opener?,qwen3.5:9b
+81_5,How do I choose a new garage door opener?,qwen3.5:9b
+81_6,What are the features of a smart garage door opener?,qwen3.5:9b
+81_7,What are the important safety considerations for smart garage door openers?,qwen3.5:9b
+81_8,How could smart garage door openers be hacked?,qwen3.5:9b
+82_1,GMO food labeling,qwen3.5:9b
+82_2,pros and cons of GMO food labeling,qwen3.5:9b
+82_3,What are the cons of GMO food labeling?,qwen3.5:9b
+82_4,What are the EU rules for GMO food labeling?,qwen3.5:9b
+82_5,traceability tools for GMO food labeling in the EU,qwen3.5:9b
+82_6,What is the role of Co-Extra in GMO food labeling traceability tools?,qwen3.5:9b
+82_7,How is testing for GMO food contamination done?,qwen3.5:9b
+82_8,What is the difference between the European and US approaches to GMO food labeling?,qwen3.5:9b
+82_9,How does the DNA-based method for testing GMO food contamination work?,qwen3.5:9b
+82_10,How could Co-Extra improve DNA-based testing for GMO contamination?,qwen3.5:9b
+83_1,interesting facts about bees,qwen3.5:9b
+83_2,Why doesn't honey spoil?,qwen3.5:9b
+83_3,Why are so many bees dying?,qwen3.5:9b
+83_4,What can be done to stop bees from dying?,qwen3.5:9b
+83_5,What has happened to the habitat of bees?,qwen3.5:9b
+83_6,What can I do to help stop the decline of bee populations and the loss of their habitat?,qwen3.5:9b
+83_7,What is the cause of Colony Collapse Disorder (CCD) in bees?,qwen3.5:9b
+83_8,What would happen if bees died out?,qwen3.5:9b
+84_1,How does seed investment work for startups?,qwen3.5:9b
+84_2,How do angel investment rounds work for startups?,qwen3.5:9b
+84_3,How does angel investment compare with crowdfunding for startups?,qwen3.5:9b
+84_4,What is a typical Series A investment round amount for startups?,qwen3.5:9b
+84_5,"What are the risks of investing in startup seed, angel, crowdfunding, and Series A rounds?",qwen3.5:9b
+84_6,What are the different types of instruments used by venture capitalists?,qwen3.5:9b
+85_1,used Lamborghini cost,qwen3.5:9b
+85_2,How does the cost of a used Lamborghini compare to a used Ferrari?,qwen3.5:9b
+85_3,How much does a pimped-out food truck cost?,qwen3.5:9b
+85_4,What licenses and permits are needed for a pimped-out food truck?,qwen3.5:9b
+85_5,What makes a good location for a food truck?,qwen3.5:9b
+85_6,What is a typical day like for a food truck owner?,qwen3.5:9b
+85_7,How can I run a food truck successfully?,qwen3.5:9b
+85_8,What are some good examples of successfully run food trucks to learn from?,qwen3.5:9b
+85_9,What made the successful food truck examples successful besides inventive flavors?,qwen3.5:9b
+86_1,What is the climate like in Utah?,qwen3.5:9b
+86_2,How does the climate in Salt Lake City differ from the climate in Utah?,qwen3.5:9b
+86_3,What is the main economic activity of Salt Lake City?,qwen3.5:9b
+86_4,What was the impact of the 2002 Olympic games in Salt Lake City?,qwen3.5:9b
+86_5,"What were the important ski locations used in the 2002 games in Salt Lake City, Utah?",qwen3.5:9b
+86_6,What are the important non-ski events that happen in Salt Lake City?,qwen3.5:9b
+86_7,"What are some popular non-winter things to do in Salt Lake City, Utah?",qwen3.5:9b
+87_1,different types of orange trees,qwen3.5:9b
+87_2,How can you tell the different types of orange trees apart?,qwen3.5:9b
+87_3,Which type of orange tree has thorns?,qwen3.5:9b
+87_4,Where do the different types of orange trees originally come from?,qwen3.5:9b
+87_5,Hamlin orange tree variety details,qwen3.5:9b
+87_7,What are the different types of navel orange trees?,qwen3.5:9b
+87_8,Which type of navel orange is the most delicious?,qwen3.5:9b
+87_9,How do navel oranges compare with blood oranges?,qwen3.5:9b
+88_1,labor systems of the Ottoman Empire,qwen3.5:9b
+88_2,What was the role of slavery in the labor systems of the Ottoman Empire?,qwen3.5:9b
+88_3,How did the Ottoman Empire govern its labor systems and slavery?,qwen3.5:9b
+88_4,Why was slavery important to the labor systems and governance of the Ottoman Empire?,qwen3.5:9b
+88_5,What was the culture of slavery in the labor systems of the Ottoman Empire?,qwen3.5:9b
+88_6,What was the role of storytellers in the culture of the Ottoman Empire?,qwen3.5:9b
+88_7,What were popular stories told by storytellers in the Ottoman Empire?,qwen3.5:9b
+88_8,What was the importance of the millet system in the Ottoman Empire?,qwen3.5:9b
+88_9,Why did the British continue the millet system of the Ottoman Empire?,qwen3.5:9b
+88_10,What is the historical importance of the millet system in developing national identities?,qwen3.5:9b
+89_1,What is the relationship between predator and prey?,qwen3.5:9b
+89_2,What do predator plants eat?,qwen3.5:9b
+89_3,What do Venus flytraps eat?,qwen3.5:9b
+89_4,Where are Venus flytraps native to?,qwen3.5:9b
+89_5,How do Venus flytraps attract and catch their prey?,qwen3.5:9b
+89_6,What are other plants similar to the Venus flytrap from its native area?,qwen3.5:9b
+89_7,How do populations of predators and prey relate?,qwen3.5:9b
+89_8,Why would the roles of predator and prey reverse?,qwen3.5:9b
+89_9,How does the relationship between predator and prey influence biodiversity?,qwen3.5:9b
+89_10,What are examples of predators that influence biodiversity?,qwen3.5:9b
+89_11,Why would humans be considered predators?,qwen3.5:9b
+90_1,Which is the biggest commercial plane?,qwen3.5:9b
+90_2,What are the operational costs of the biggest commercial plane?,qwen3.5:9b
+90_3,How does the fuel consumption of the biggest commercial plane compare to its competitors?,qwen3.5:9b
+90_4,How do the freighter versions of the biggest commercial plane compare to each other?,qwen3.5:9b
+90_5,Why did the Airbus A380 stop being produced?,qwen3.5:9b
+90_6,What was Boeing's response to compete with the Airbus A380?,qwen3.5:9b
+90_7,What is the newest version of the Boeing plane developed to compete with the Airbus A380 and what are its improvements?,qwen3.5:9b
+90_8,What are the differences between the variants of the newest Boeing plane designed to compete with the Airbus A380?,qwen3.5:9b
+91_1,What is the purpose of GDPR?,qwen3.5:9b
+91_2,What is different about GDPR compared to previous legislation?,qwen3.5:9b
+91_3,What are the privacy implications of the technologies related to GDPR and previous legislation?,qwen3.5:9b
+91_4,"What is the full range of personal data under GDPR, and are IP addresses considered PII?",qwen3.5:9b
+91_5,How do big companies adapt to GDPR?,qwen3.5:9b
+91_6,What are the privacy issues in social networks?,qwen3.5:9b
+91_7,What do social network users get in return for their privacy?,qwen3.5:9b
+91_8,What are the symptoms of social network addiction?,qwen3.5:9b
+92_1,Do shoulder braces help recover from an injury?,qwen3.5:9b
+92_2,exercises to help recover from a shoulder injury,qwen3.5:9b
+92_3,What are some other exercises that could help recover from a shoulder injury?,qwen3.5:9b
+92_4,How do I know if a shoulder injury is serious?,qwen3.5:9b
+92_5,When should you consider surgery for a shoulder injury?,qwen3.5:9b
+92_6,What are other ways to treat shoulder injury pain besides surgery?,qwen3.5:9b
+92_7,How to stop shoulder injury pain while working at a desk?,qwen3.5:9b
+93_1,how to purchase a Burger King franchise,qwen3.5:9b
+93_2,how to open a Burger King franchise,qwen3.5:9b
+93_3,Is there any financial support for the Burger King franchise fee?,qwen3.5:9b
+93_4,What is the typical income of a Burger King franchise owner?,qwen3.5:9b
+93_5,Is it better to be a Burger King franchise owner or an independent business owner?,qwen3.5:9b
+93_6,What support does Burger King provide for opening a franchise?,qwen3.5:9b
+94_1,How did snowboarding begin?,qwen3.5:9b
+94_2,Who were the winners of the first snowboarding competitions?,qwen3.5:9b
+94_3,What are strap-in bindings?,qwen3.5:9b
+94_4,What are alternatives to strap-in snowboarding bindings?,qwen3.5:9b
+94_5,What else is needed for a first time snowboarding experience?,qwen3.5:9b
+94_6,How can I teach myself to start snowboarding?,qwen3.5:9b
+94_7,best slopes in Seattle,qwen3.5:9b
+94_8,What are other things to do at Bachelor Mountain?,qwen3.5:9b
+95_1,How are waste and garbage processed?,qwen3.5:9b
+95_2,What is the environmental impact of burning waste and garbage?,qwen3.5:9b
+95_3,Why does compacting waste slow down waste processing?,qwen3.5:9b
+95_4,How is sewage recycled?,qwen3.5:9b
+95_5,What are the pros and cons of recycling vs composting?,qwen3.5:9b
+95_6,biodegradable plastics,qwen3.5:9b
+95_7,How are biodegradable plastics made?,qwen3.5:9b
+95_8,How is corn oil used in the production of biodegradable plastics?,qwen3.5:9b
+96_1,How to make Japanese Yakiniku,qwen3.5:9b
+96_3,best Yakiniku restaurants in Tokyo,qwen3.5:9b
+96_4,three star Michelin sushi restaurants in Tokyo,qwen3.5:9b
+96_5,Do you need an agent to make reservations at three star Michelin sushi restaurants in Tokyo?,qwen3.5:9b
+96_6,Other fun things to do in Tokyo.,qwen3.5:9b
+96_7,What is the cost of living in Tokyo compared to NYC?,qwen3.5:9b
+96_8,What is the salary of foreign law firms in Tokyo?,qwen3.5:9b
+97_1,Who are the rivals of the Pittsburgh Steelers?,qwen3.5:9b
+97_2,notable games between Baltimore Ravens and Pittsburgh Steelers,qwen3.5:9b
+97_3,notable moments in the rivalry between the Baltimore Ravens and Pittsburgh Steelers,qwen3.5:9b
+97_4,notable moments in the Ravens versus Steelers rivalry Troy Polamalu interception,qwen3.5:9b
+97_5,Troy Polamalu pick-6 against the Baltimore Ravens,qwen3.5:9b
+97_6,Tell me more about the Immaculate Reception.,qwen3.5:9b
+97_7,What happened to the stadium during the Immaculate Reception?,qwen3.5:9b
+97_8,What happened to the stadium's defense?,qwen3.5:9b
+98_1,environmental cost of food production,qwen3.5:9b
+98_2,What is the environmental cost of water used for meat production?,qwen3.5:9b
+98_3,How much less water is used for vegetable production compared to meat production?,qwen3.5:9b
+98_4,What are the environmental benefits of being vegetarian?,qwen3.5:9b
+98_5,Are there any health concerns associated with being vegetarian?,qwen3.5:9b
+98_6,What are the protein sources for vegetarians?,qwen3.5:9b
+98_7,almond recipes,qwen3.5:9b
+98_8,How do you make almond flour?,qwen3.5:9b
+99_1,What is high blood carbon dioxide?,qwen3.5:9b
+99_2,How to treat high blood carbon dioxide?,qwen3.5:9b
+99_3,How to treat high cholesterol?,qwen3.5:9b
+99_4,What should I eat to improve high cholesterol?,qwen3.5:9b
+99_5,What are the differences between the two types of cholesterol?,qwen3.5:9b
+99_6,What are the differences between the two types of cholesterol fats and is the other one good for you?,qwen3.5:9b
+99_7,What foods other than fish are good sources of the good type of fat to improve high cholesterol?,qwen3.5:9b
+99_8,What types of fats does olive oil contain?,qwen3.5:9b
+100_1,What causes teeth to chip?,qwen3.5:9b
+100_2,What are the treatments to fix chipped teeth?,qwen3.5:9b
+100_3,What are the different dental treatment options for fixing a large chipped tooth?,qwen3.5:9b
+100_4,What are the differences between a crown and an implant for fixing a large chip in a tooth?,qwen3.5:9b
+100_5,"Which is more expensive, a dental crown or a dental implant, for fixing a chipped tooth?",qwen3.5:9b
+100_6,What is the insurance coverage for a dental crown?,qwen3.5:9b
+100_7,What is the Medicare coverage for a dental crown?,qwen3.5:9b
+100_8,Medicare covered dentists in Seattle,qwen3.5:9b
+101_1,What is Melania Trump's religion?,qwen3.5:9b
+101_2,What did Melania Trump do before she was married?,qwen3.5:9b
+101_3,Does Melania Trump have children?,qwen3.5:9b
+101_4,How old is Melania Trump's husband?,qwen3.5:9b
+101_5,Where is the Kit Kat Club where Donald and Melania Trump met?,qwen3.5:9b
+101_6,When did Melania Trump become a model?,qwen3.5:9b
+101_7,Does the First Lady of the United States receive a salary?,qwen3.5:9b
+101_8,"What is Ivanka Trump's religion, career before marriage, children, age, and whether she is paid?",qwen3.5:9b
+101_9,Do we pay Jared Kushner?,qwen3.5:9b
+101_10,What does Jared Kushner do at the White House?,qwen3.5:9b
+102_1,When did social security start in the US?,qwen3.5:9b
+102_2,Was social security mandatory when it started in the US?,qwen3.5:9b
+102_3,Who received the first US Social Security check?,qwen3.5:9b
+102_4,When did the US government start borrowing from Social Security?,qwen3.5:9b
+102_5,How much does the US government owe to Social Security?,qwen3.5:9b
+102_6,When will US Social Security run out of money?,qwen3.5:9b
+102_7,What will happen when US Social Security runs out of money?,qwen3.5:9b
+102_8,Can US Social Security be fixed?,qwen3.5:9b
+102_9,How much of an increase is needed to fix US Social Security?,qwen3.5:9b
+103_1,Why were the Grateful Dead such an influential live band?,qwen3.5:9b
+103_2,Why did the Grateful Dead allow live recordings?,qwen3.5:9b
+103_3,Did the Grateful Dead have a #1 hit?,qwen3.5:9b
+103_4,Who was the leader of the Grateful Dead?,qwen3.5:9b
+103_5,How did the leader of the Grateful Dead lose his finger?,qwen3.5:9b
+103_6,What was the relationship between the leader of the Grateful Dead and Jefferson Airplane?,qwen3.5:9b
+103_8,Who wrote the song Cassidy?,qwen3.5:9b
+103_9,"What else did the writers of the song ""Cassidy"" write?",qwen3.5:9b
+103_10,Why did the Grateful Dead break up?,qwen3.5:9b
+104_1,well-known Information Retrieval researchers,qwen3.5:9b
+104_3,Who are some well-known British Information Retrieval researchers?,qwen3.5:9b
+104_4,What did the well-known British Information Retrieval researcher's studies contribute to evaluation?,qwen3.5:9b
+104_6,How did the experiments of important British Information Retrieval researchers influence modern initiatives?,qwen3.5:9b
+104_7,What is TREC?,qwen3.5:9b
+104_8,What are some recent TREC tasks?,qwen3.5:9b
+104_9,What is e-Discovery in the context of TREC tasks?,qwen3.5:9b
+104_10,What are the important components of a test collection in Information Retrieval?,qwen3.5:9b
+104_12,What are important measures for web search engines?,qwen3.5:9b
+104_13,What are important measures for online web search engines?,qwen3.5:9b
+105_1,When did the Black Lives Matter campaign begin?,qwen3.5:9b
+105_2,history of the Black Lives Matter campaign,qwen3.5:9b
+105_3,Why was the person acquitted in the events that led to the start of the Black Lives Matter campaign?,qwen3.5:9b
+105_4,What happened to Michael Brown?,qwen3.5:9b
+105_5,Who named the Black Lives Matter movement?,qwen3.5:9b
+105_6,What was the US reaction to the Black Lives Matter movement?,qwen3.5:9b
+105_7,What was the movement of the police supporters in reaction to Black Lives Matter?,qwen3.5:9b
+105_8,Why were Michael Brown and the individuals associated with the Black Lives Matter campaign's origins killed?,qwen3.5:9b
+105_9,What motivates the Black Lives Matter movement?,qwen3.5:9b
