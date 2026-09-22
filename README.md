@@ -33,8 +33,8 @@ Kết quả dưới đây được lưu trong `cast2020_results/aggregate_metric
 |---|---:|---:|---:|
 | Raw | 0.077960 | 0.125089 | 0.172014 |
 | Raw + RM3 | 0.090489 | 0.141471 | 0.178398 |
-| Rewriter 1 | 0.231111 | 0.368813 | 0.509743 |
-| Rewriter 2 | 0.236396 | 0.381220 | 0.510466 |
+| Rewriter 1 | 0.227154 | 0.364075 | 0.499639 |
+| Rewriter 2 | 0.238451 | 0.388628 | 0.526437 |
 | Human | 0.255781 | 0.427310 | 0.542960 |
 
 Trong lần chạy này, Raw + RM3 cải thiện cả ba metric so với Raw nhưng vẫn thấp hơn hai rewriter. Rewriter 2 cao hơn Rewriter 1 trên cả ba metric; Human đạt điểm cao nhất. Đây là so sánh điểm tổng hợp của lần chạy được lưu, chưa có kiểm định ý nghĩa thống kê.
