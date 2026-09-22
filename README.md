@@ -1,4 +1,4 @@
-# CAsT 2020 Query Rewriting với Ollama Cloud
+# CAsT 2020 Query Rewriting bằng LLM
 
 Project này kiểm tra liệu **viết lại câu hỏi hội thoại** bằng LLM có giúp BM25 tìm đúng tài liệu hơn trên benchmark **TREC CAsT 2020** hay không.
 
@@ -8,7 +8,7 @@ Project này kiểm tra liệu **viết lại câu hỏi hội thoại** bằng 
 - Dùng cùng một chỉ mục `cast2019`, BM25 (`k1=0.9`, `b=0.4`, top-100) cho mọi nhánh.
 - So sánh ba cách tạo truy vấn:
   - **Raw**: dùng nguyên câu người dùng hiện tại.
-  - **LLM**: Ollama Cloud viết lại thành câu hỏi độc lập từ lịch sử hội thoại.
+  - **LLM**: mô hình ngôn ngữ viết lại thành câu hỏi độc lập từ lịch sử hội thoại; project gọi model qua provider Ollama Cloud.
   - **Human**: bản viết lại thủ công của CAsT 2020, dùng làm mốc tham chiếu.
 - Metrics: `nDCG@10`, `Recall@100`, `RR@10`.
 
@@ -26,11 +26,11 @@ Kết quả đang lưu trong `cast2020_results/`:
 
 Mở [`notebooks/colab_benchmark.ipynb`](notebooks/colab_benchmark.ipynb) bằng Google Colab và chạy các cell từ trên xuống dưới:
 
-1. Tạo API key tại [Ollama](https://ollama.com/settings/keys).
+1. Tạo API key cho provider [Ollama Cloud](https://ollama.com/settings/keys).
 2. Trong Colab, vào **Secrets** và thêm biến `OLLAMA_API_KEY` (không ghi key vào notebook).
 3. Chạy notebook để tải dữ liệu/index, chạy Raw–Human–LLM và lưu kết quả CSV. Cache rewrite cho phép chạy tiếp nếu bị gián đoạn.
 
-Notebook gọi Ollama Cloud (`https://ollama.com`), không cần Ollama local.
+Notebook sử dụng LLM qua provider Ollama Cloud (`https://ollama.com`), không cần Ollama local. Ollama là provider, không phải tên của phương pháp.
 
 ## Cấu trúc chính
 
