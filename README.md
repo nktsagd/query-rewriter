@@ -1,6 +1,6 @@
 # CAsT 2020 Query Rewriting bằng LLM
 
-Project này đo ảnh hưởng của việc viết lại câu hỏi hội thoại lên truy hồi BM25 trên benchmark **TREC CAsT 2020**. Notebook chạy toàn bộ thí nghiệm trên Google Colab với Pyserini và Ollama Cloud.
+Project này đo ảnh hưởng của việc viết lại câu hỏi hội thoại lên truy hồi BM25 trên dataset **TREC CAsT 2020**. Notebook chạy toàn bộ thí nghiệm trên Google Colab với Pyserini và Ollama Cloud.
 
 ## Thiết kế benchmark
 
@@ -29,7 +29,6 @@ Kết quả dưới đây được xuất từ notebook với model `gemma4:31b`
 | Rewriter 2 | 0.241809 | 0.387319 | 0.512363 |
 | Human | 0.255781 | 0.427310 | 0.542960 |
 
-Đây là benchmark BM25 có kiểm soát, không phải điểm chính thức trên bảng xếp hạng TREC. Kết quả LLM phụ thuộc model, prompt, endpoint và thời điểm gọi API; không nên so sánh trực tiếp với một cấu hình khác nếu chưa cố định các yếu tố này.
 
 ## Chạy notebook
 
